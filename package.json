@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "ganache": "^7.4.4",
+    "truffle": "^5.6.0"
+  },
+  "name": "swap-tokens",
+  "version": "1.0.0",
+  "main": "test-SwapTokens.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.0",
+    "mocha": "^9.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
